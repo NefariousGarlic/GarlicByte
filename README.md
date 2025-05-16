@@ -1,53 +1,17 @@
-# GarlicByte
-Down with Pickelbyte
+games to play  
+pls star if you use it a lot!  
 
-🧄 GARLICBYTE
-DOWN WITH PICKELBYTE. RISE WITH GARLICBYTE.
+game request process:  
+1: check website for game. if its there dont request it.  
+2: check toadd folder. if its there dont request it, i will add it shortly.  
+3: try to find github.io website with game on it, even if it is blocked.  
+4: do this form: https://forms.gle/bcchSzb6uVn8N6Q46
 
-“Pickelbyte is a fraud. Garlicbyte is the cure.”
+change request process:  
+changes include moving a game to main list, removing nonfuntional games, or any change beside adding games.  
+do this form: https://forms.gle/bcchSzb6uVn8N6Q46
 
-💀 What is Garlicbyte?
-Garlicbyte is an open-source countermeasure to the bloated, insecure, and suspicious code base of Pickelbyte. While Pickelbyte hides behind closed logic and shady affiliations, Garlicbyte exposes the truth, disinfects your data, and decentralizes your freedom.
+In the future, I will allow people I know the background of and trust to contribute games of their own and approve updates to the site.
 
-This is not just a fork. It’s a digital rebellion.
-
-🚨 Why Garlicbyte Exists
-Pickelbyte has been compromised — by poor design, questionable motives, and an obsession with control. Its association with so-called "Anonymous" elements raises red flags. Real transparency doesn’t hide behind masks — it shines a light.
-
-Garlicbyte fights back:
-
-🧄 Pure, Open Code: No backdoors. No surveillance. No lies.
-
-🧄 Community-Driven: We build in the open, with peer review and honesty.
-
-🧄 Security First: Garlicbyte doesn’t sell safety — it delivers it.
-
-🔥 Pickelbyte Must Fall
-"Pickelbyte is the spyware of the underground. Garlicbyte is the firewall of the people."
-
-We are not just building a better version. We are dismantling the myth. The Pickelbyte illusion is ending. Garlicbyte is the garlic to its vampire code — it ends the night.
-
-🧠 Philosophy
-Garlicbyte is:
-
-Against centralization of trust
-
-Against obscured dependencies and locked logic
-
-Against authoritarian codebases in disguise
-
-You want freedom? You want privacy? You want control?
-
-Then you want Garlicbyte.
-
-✊ Join the Resistance
-Clone it. Fork it. Spread it.
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/garlicbyte
-Expose Pickelbyte. Build Garlicbyte. Become part of the fix.
-
-📢 Final Message
-“Pickelbyte rots. Garlicbyte bites.”
+Disclaimer:
+I do not own and did not make any games on this site, unless otherwise noted. All requests are subject to review and approval by me, and may take upwards of 5 days to take effect. 
