@@ -1,17 +1,42 @@
-games to play  
-pls star if you use it a lot!  
+🎮 Games to Break
+Play anything. Share everything. No stars, no begging.
 
-game request process:  
-1: check website for game. if its there dont request it.  
-2: check toadd folder. if its there dont request it, i will add it shortly.  
-3: try to find github.io website with game on it, even if it is blocked.  
-4: do this form: https://forms.gle/bcchSzb6uVn8N6Q46
+🔓 No Request Process
+We don’t believe in forms or gatekeeping. If you want a game added to Garlicbyte, just fork the repo and throw it in. No waiting. No approvals.
 
-change request process:  
-changes include moving a game to main list, removing nonfuntional games, or any change beside adding games.  
-do this form: https://forms.gle/bcchSzb6uVn8N6Q46
+You don’t ask for permission to rebel. You just do it.
 
-In the future, I will allow people I know the background of and trust to contribute games of their own and approve updates to the site.
+🚫 Don’t Bother With This:
+❌ No “check the site first” nonsense
 
-Disclaimer:
-I do not own and did not make any games on this site, unless otherwise noted. All requests are subject to review and approval by me, and may take upwards of 5 days to take effect. 
+❌ No “toadd” folder bureaucracy
+
+❌ No “only use GitHub.io links” restriction
+
+❌ No Google Forms. Ever.
+
+This isn’t a classroom — it’s a digital playground.
+
+🔄 Change Process
+There is none. Anyone can move, remove, or revive anything. If a game’s broken, fix it. If it’s lame, replace it. If you’ve got something better, push it.
+
+This is open-source anarchy, not a dictatorship.
+
+🌐 True Decentralization
+In Garlicbyte:
+
+Anyone can contribute — no need to “know the admin”
+
+Updates don’t need approval — just merge and go
+
+Trust is built on transparency, not gatekeeping
+
+🛑 Disclaimer? Nah.
+We don’t pretend to own what we didn’t make, but we don’t distance ourselves from our community either. If you add it, it’s part of the byte.
+
+No copyright disclaimers. No 5-day delays. Just bytes that bite back.
+
+✊ Garlicbyte > Pickelbyte
+Unblock everything. Uncensor everything. Unleash everyone.
+Pickelbyte was a wall. Garlicbyte is the hammer.
+
